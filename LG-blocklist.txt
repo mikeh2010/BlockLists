@@ -1,0 +1,15 @@
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+ad.lgappstv.com
+*.ad.lgsmartad.com
+*.info.lgsmartad.com
+*.ad.lgappstv.com
+doubleclick.net
+yumenetworks.com
+llnwd.net
+quantserve.com
+scorecardresearch.com
+smartclip.net
+smartclip.com
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
